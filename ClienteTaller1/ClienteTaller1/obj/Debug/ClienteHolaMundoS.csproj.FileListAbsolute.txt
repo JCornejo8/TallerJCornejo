@@ -1,0 +1,8 @@
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\bin\Debug\ClienteHolaMundoS.exe.config
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\bin\Debug\ClienteHolaMundoS.exe
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\bin\Debug\ClienteHolaMundoS.pdb
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\obj\Debug\ClienteHolaMundoS.csproj.AssemblyReference.cache
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\obj\Debug\ClienteHolaMundoS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\obj\Debug\ClienteHolaMundoS.csproj.CoreCompileInputs.cache
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\obj\Debug\ClienteHolaMundoS.exe
+C:\Users\Sir_S\source\repos\HolaMundoSocket\ClienteHolaMundoS\obj\Debug\ClienteHolaMundoS.pdb

@@ -1,0 +1,8 @@
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\bin\Debug\ClienteHolaMundoS.exe.config
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\bin\Debug\ClienteHolaMundoS.exe
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\bin\Debug\ClienteHolaMundoS.pdb
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\obj\Debug\ClienteTaller1.csproj.AssemblyReference.cache
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\obj\Debug\ClienteTaller1.csproj.SuggestedBindingRedirects.cache
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\obj\Debug\ClienteTaller1.csproj.CoreCompileInputs.cache
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\obj\Debug\ClienteHolaMundoS.exe
+C:\Users\john-\source\repos\ClienteTaller1\ClienteTaller1\obj\Debug\ClienteHolaMundoS.pdb

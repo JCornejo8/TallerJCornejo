@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerJCornejo", "TallerJCornejo.csproj", "{765A882D-09A6-4779-A470-68FD34A77B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerSocketUtil", "..\ServerSocketUtil\ServerSocketUtil.csproj", "{80F12BCA-6016-42B9-8FB6-BC7CF16F9635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{765A882D-09A6-4779-A470-68FD34A77B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765A882D-09A6-4779-A470-68FD34A77B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765A882D-09A6-4779-A470-68FD34A77B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765A882D-09A6-4779-A470-68FD34A77B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F12BCA-6016-42B9-8FB6-BC7CF16F9635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F12BCA-6016-42B9-8FB6-BC7CF16F9635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F12BCA-6016-42B9-8FB6-BC7CF16F9635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F12BCA-6016-42B9-8FB6-BC7CF16F9635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F3D0C8-DD0A-4947-ABBE-4CF46AA29202}
+	EndGlobalSection
+EndGlobal

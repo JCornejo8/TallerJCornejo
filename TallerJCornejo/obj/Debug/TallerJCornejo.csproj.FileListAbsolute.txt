@@ -1,0 +1,11 @@
+C:\Users\john-\source\repos\TallerJCornejo\bin\Debug\TallerJCornejo.exe.config
+C:\Users\john-\source\repos\TallerJCornejo\bin\Debug\TallerJCornejo.exe
+C:\Users\john-\source\repos\TallerJCornejo\bin\Debug\TallerJCornejo.pdb
+C:\Users\john-\source\repos\TallerJCornejo\bin\Debug\ServerSocketUtil.dll
+C:\Users\john-\source\repos\TallerJCornejo\bin\Debug\ServerSocketUtil.pdb
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.csproj.AssemblyReference.cache
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.csproj.SuggestedBindingRedirects.cache
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.csproj.CoreCompileInputs.cache
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.csproj.CopyComplete
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.exe
+C:\Users\john-\source\repos\TallerJCornejo\obj\Debug\TallerJCornejo.pdb
